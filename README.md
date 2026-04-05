@@ -12,5 +12,9 @@ I am interested in a DevOps role because I enjoy creating solutions that are eas
 I pay attention not only to the code, but also to how the application will be used and delivered. 
 This project demonstrates my approach to work: keeping things simple, ensuring they work reliably, and thinking about the production environment from the very beginning.
 
-
 Telegram: @zemerov_danya
+
+## Release
+
+Latest version: v1.0.0  
+https://github.com/Danya-dver/greenAPI/releases
