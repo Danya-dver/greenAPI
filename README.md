@@ -10,4 +10,4 @@ This task shows how I approach work: keep things simple, make them work reliably
 
 GitHub repository: https://github.com/Danya-dver/greenAPI/
 
-Telegram: zemerov_danya
+Telegram: @zemerov_danya
