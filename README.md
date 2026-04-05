@@ -1,5 +1,6 @@
 # GREEN-API Test Solution
-This project is my solution for a DevOps test assignment. 
+
+This project is my solution for a DevOps test assignment.
 I created a simple HTML page that interacts with the GREEN API. On the page, you can enter an `idInstance` and an `ApiTokenInstance`, call API methods, and view the response in a separate read-only field. 
 Everything works directly in the browser without any backend. The page supports the following methods: getSettings, getStateInstance, sendMessage, and sendFileByUrl. 
 After entering your credentials, you can click the buttons and immediately see the API response in JSON format. I tried to keep the implementation concise and simple. 
