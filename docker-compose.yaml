@@ -1,0 +1,6 @@
+services:
+  web:
+    build: .
+    image: danil123/green_api:latest
+    ports:
+      - "8080:80"
